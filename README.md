@@ -1,5 +1,9 @@
 # SpacexApp
 
+You can visualize information about all the rockets, launches & other SpaceX's data !
+
+Special thanks to arjunyel for the project reference.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
